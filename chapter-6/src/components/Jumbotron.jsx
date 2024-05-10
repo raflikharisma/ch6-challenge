@@ -13,7 +13,7 @@ export default function Jumbotron() {
               </p>
               <div className="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
                 <button id="mulai-sewa-btn" type="button" className="btn btn-lg text-light px-4 me-md-2 fw-bold">
-                  <a href="" className="text-light">
+                  <a href="/cars" className="text-light">
                     Mulai Sewa Mobil
                   </a>
                 </button>
